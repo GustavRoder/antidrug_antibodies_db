@@ -1,7 +1,13 @@
-Antibody	AdaType	ObsPctLo	ObsPctHi	Obs_Year	Source
-Etanercept	Neutralizing	20	25	2012	pubmed_23223420
-Etanercept	Neutralizing	20	25	2012	https://thefullertoninformer.com/wp-content/uploads/2019/03/343155_Sanofi_MKT33212-Flublok-PI_R1_NO-CODE-1.pdf
-Etanercept	Neutralizing	20	25	2012	pubmed_34911811
-Etanercept	Neutralizing	20	25	2012	pubmed_24718553
-
+Antibody	AdaType	ObsPctLo	ObsPctHi	Pub_Year	Pub_Src	Curated
+Etanercept	Non-Neutralizing	20	25	2012	pubmed_23223420	No
+Etanercept	Non-Neutralizing	20	25	2008	https://thefullertoninformer.com/wp-content/uploads/2019/03/343155_Sanofi_MKT33212-Flublok-PI_R1_NO-CODE-1.pdf	No
+Etanercept	Non-Neutralizing	20	25	2021	pubmed_34911811	No
+Etanercept	Non-Neutralizing	20	25	2014	pubmed_24718553	No
+Etanercept	Neutralizing	10	52	2014 pubmed_24718553	No
+Etanercept	Neutralizing	10	52	2014 pubmed_22173229	No
+Etanercept	Neutralizing	10	52	2014 pubmed_25895875	No
+Etanercept	Neutralizing	10	52	2014 pubmed_26290514	No
+Etanercept	Neutralizing	10	52	2014 pubmed_30994711	No
+Etanercept	Neutralizing	10	52	2014 pubmed_29200248	No
+Etanercept	Neutralizing	10	52	2014 pubmed_31413544	No
 
