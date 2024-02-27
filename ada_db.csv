@@ -1,19 +1,19 @@
-Antibody	AdaType	ObsPctLo	ObsPctHi	Pub_Year	Pub_Src	Curated
-Etanercept	Non-Neutralizing	20	25	2012	pubmed_23223420	No
-Etanercept	Non-Neutralizing	20	25	2008	https://thefullertoninformer.com/wp-content/uploads/2019/03/343155_Sanofi_MKT33212-Flublok-PI_R1_NO-CODE-1.pdf	No
-Etanercept	Non-Neutralizing	20	25	2021	pubmed_34911811	No
-Etanercept	Non-Neutralizing	20	25	2014	pubmed_24718553	No
-Infliximab	Neutralizing	10	52	2014 pubmed_24718553	No
-Infliximab	Neutralizing	10	52	2014 pubmed_22173229	No
-Infliximab	Neutralizing	10	52	2014 pubmed_25895875	No
-Infliximab	Neutralizing	10	52	2014 pubmed_26290514	No
-Infliximab	Neutralizing	10	52	2014 pubmed_30994711	No
-Infliximab	Neutralizing	10	52	2014 pubmed_29200248	No
-Infliximab	Neutralizing	10	52	2014 pubmed_31413544	No
-Infliximab	Non-Neutralizing	10	52	2014 pubmed_24718553	No
-Infliximab	Non-Neutralizing	10	52	2014 pubmed_22173229	No
-Infliximab	Non-Neutralizing	10	52	2014 pubmed_25895875	No
-Infliximab	Non-Neutralizing	10	52	2014 pubmed_26290514	No
-Infliximab	Non-Neutralizing	10	52	2014 pubmed_30994711	No
-Infliximab	Non-Neutralizing	10	52	2014 pubmed_29200248	No
-Infliximab	Non-Neutralizing	10	52	2014 pubmed_31413544	No
+MoleculeName	MoleculeType	AdaType	ObsPctLo	ObsPctHi	Pub_Year	Pub_Src	Curated
+Etanercept	Fusion-Fc	Non-Neutralizing	20	25	2012	pubmed_23223420	No
+Etanercept	Fusion-Fc	Non-Neutralizing	20	25	2008	https://thefullertoninformer.com/wp-content/uploads/2019/03/343155_Sanofi_MKT33212-Flublok-PI_R1_NO-CODE-1.pdf	No
+Etanercept	Fusion-Fc	Non-Neutralizing	20	25	2021	pubmed_34911811	No
+Etanercept	Fusion-Fc	Non-Neutralizing	20	25	2014	pubmed_24718553	No
+Infliximab	Chimeric Monoclonal Antibody	Neutralizing	10	52	2014 pubmed_24718553	No
+Infliximab	Chimeric Monoclonal Antibody	Neutralizing	10	52	2014 pubmed_22173229	No
+Infliximab	Chimeric Monoclonal Antibody	Neutralizing	10	52	2014 pubmed_25895875	No
+Infliximab	Chimeric Monoclonal Antibody	Neutralizing	10	52	2014 pubmed_26290514	No
+Infliximab	Chimeric Monoclonal Antibody	Neutralizing	10	52	2014 pubmed_30994711	No
+Infliximab	Chimeric Monoclonal Antibody	Neutralizing	10	52	2014 pubmed_29200248	No
+Infliximab	Chimeric Monoclonal Antibody	Neutralizing	10	52	2014 pubmed_31413544	No
+Infliximab	Chimeric Monoclonal Antibody	Non-Neutralizing	10	52	2014 pubmed_24718553	No
+Infliximab	Chimeric Monoclonal Antibody	Non-Neutralizing	10	52	2014 pubmed_22173229	No
+Infliximab	Chimeric Monoclonal Antibody	Non-Neutralizing	10	52	2014 pubmed_25895875	No
+Infliximab	Chimeric Monoclonal Antibody	Non-Neutralizing	10	52	2014 pubmed_26290514	No
+Infliximab	Chimeric Monoclonal Antibody	Non-Neutralizing	10	52	2014 pubmed_30994711	No
+Infliximab	Chimeric Monoclonal Antibody	Non-Neutralizing	10	52	2014 pubmed_29200248	No
+Infliximab	Chimeric Monoclonal Antibody	Non-Neutralizing	10	52	2014 pubmed_31413544	No
