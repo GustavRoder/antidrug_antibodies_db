@@ -1,2 +1,7 @@
-Antibody  ObsPctLo  ObsPctHi  Obs_Year  Source
+Antibody	AdaType	ObsPctLo	ObsPctHi	Obs_Year	Source
+Etanercept	Neutralizing	20	25	2012	pubmed_23223420
+Etanercept	Neutralizing	20	25	2012	https://thefullertoninformer.com/wp-content/uploads/2019/03/343155_Sanofi_MKT33212-Flublok-PI_R1_NO-CODE-1.pdf
+Etanercept	Neutralizing	20	25	2012	pubmed_34911811
+Etanercept	Neutralizing	20	25	2012	pubmed_24718553
+
 
